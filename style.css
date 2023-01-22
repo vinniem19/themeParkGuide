@@ -1,0 +1,79 @@
+body {
+    background-color: lightgray;
+    /* background-color: #00A56B; */
+    background-image: url("./images/ferris_wheel.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: cover;
+    /* background-blend-mode: lighten; */
+    padding: 10px 10px;
+    font-size: 18px;
+    color: white;
+}
+
+#open-txt {
+    font-family: "Georgia";
+    font-size: 100px;
+    text-align: center;
+}
+
+#guideword {
+    color: coral;
+}
+.intro {
+    margin-top: 15px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+#welcome-banner {
+    height: 132px;
+    width:  100%;
+    color: black;
+    background-color: white;
+    opacity: 50%;
+    
+}
+
+.bg-light {
+    height: 50px;
+    font-size:28px;
+}
+
+.nav-items {
+    list-style-type: none;
+    margin-left:  10px;
+    margin-top: 3px;
+    padding: 10px;
+    display: inline;
+    text-decoration: none;
+    font-size: 28px;
+
+}
+
+.nav-link {
+    margin: 10px;
+}
+
+.nav-items:hover {
+    background-color: #111;
+    color: white;
+    margin-top: 5px;
+}
+
+.ticket_images {
+    height: 200px;
+    width: 300px;
+    display: inline;
+    margin:10px;
+}
+#exampleFormControlInput1 {
+    width: 25%;
+}
+
+#irongwazicaption {
+    background-color: gray;
+}
