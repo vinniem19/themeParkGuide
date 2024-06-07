@@ -30,3 +30,4 @@ function sendMessage () {
       url: queryURL,
       method: "GET"
     }).then(function(response) {
+*/
